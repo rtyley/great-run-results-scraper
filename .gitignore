@@ -6,3 +6,8 @@ lib
 temp-testng-customsuite.xml
 **pom.xml.releaseBackup
 release.properties
+
+*.ipr
+*.iws
+*.iml
+
